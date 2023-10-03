@@ -13,6 +13,9 @@ The purpose of this repository is to eventually have all cards (and other relate
 
 At this moment all cards from the first 7 base sets are scanned, although in very low quality. Base set 8 is completely missing and several Special / Promotional cards are also missing. I have around 300-400 cards myself I want to properly scan in the near future.
 
+## Downloading
+
+You can download a .zip containing this entire repository [here](https://github.com/GrenderG/MHHC_Archive/archive/refs/heads/master.zip).
 
 ## Contributing
 
