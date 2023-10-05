@@ -21,6 +21,6 @@ You can download a .zip containing this entire repository [here](https://github.
 
 There are several ways to contribute:
 
-1. If you have cards yourself, you can scan (ideally at 1200ppp and 2858x4086, but even a good photo is better than nothing!) them and share them with me or upload them yourself via Pull Request. 
+1. If you have cards yourself, you can scan them (ideally at 1200ppp and 2858x4086, but even a good photo is better than nothing!) and share them with me or upload them yourself via Pull Request. 
 2. If you have cards you don't want anymore or simply want me to scan them, feel free to ship them to me (I don't mind buying them for a reasonable price), I will cover shipping costs if needed.
 3. Donating so I can keep buying missing cards in order to scan them (through Ko-Fi for example [https://ko-fi.com/grender](https://ko-fi.com/grender)).
