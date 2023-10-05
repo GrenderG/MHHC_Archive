@@ -1,5 +1,10 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R21LO82)
 
+<p align="center">
+  <img src="https://i.imgur.com/7MbM8Fk.png" alt="Banner"/>
+</p>
+
+
 # Monster Hunter Hunting Card Archive
 
 [WORK IN PROGRESS] Archive for all Monster Hunter Hunting Card cards. 
