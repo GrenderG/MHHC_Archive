@@ -2594,221 +2594,10 @@
                 ]
             },
             {
-                "name": "Promotional",
-                "url": "Promotional",
-                "releaseDate": "2024-03-07T22:18:12.401822Z",
-                "cards": [
-                    {
-                        "name": "P1",
-                        "url": "P1.png"
-                    },
-                    {
-                        "name": "P10",
-                        "url": "P10.png"
-                    },
-                    {
-                        "name": "P11",
-                        "url": "P11.png"
-                    },
-                    {
-                        "name": "P12",
-                        "url": "P12.png"
-                    },
-                    {
-                        "name": "P13",
-                        "url": "P13.png"
-                    },
-                    {
-                        "name": "P14",
-                        "url": "P14.png"
-                    },
-                    {
-                        "name": "P15",
-                        "url": "P15.jpg"
-                    },
-                    {
-                        "name": "P16",
-                        "url": "P16.jpg"
-                    },
-                    {
-                        "name": "P17",
-                        "url": "P17.png"
-                    },
-                    {
-                        "name": "P18",
-                        "url": "P18.jpg"
-                    },
-                    {
-                        "name": "P19",
-                        "url": "P19.png"
-                    },
-                    {
-                        "name": "P2",
-                        "url": "P2.png"
-                    },
-                    {
-                        "name": "P20",
-                        "url": "P20.png"
-                    },
-                    {
-                        "name": "P21",
-                        "url": "P21.png"
-                    },
-                    {
-                        "name": "P22",
-                        "url": "P22.png"
-                    },
-                    {
-                        "name": "P23",
-                        "url": "P23.png"
-                    },
-                    {
-                        "name": "P24",
-                        "url": "P24.png"
-                    },
-                    {
-                        "name": "P25",
-                        "url": "P25.jpg"
-                    },
-                    {
-                        "name": "P26",
-                        "url": "P26.jpg"
-                    },
-                    {
-                        "name": "P27",
-                        "url": "P27.png"
-                    },
-                    {
-                        "name": "P28",
-                        "url": "P28.png"
-                    },
-                    {
-                        "name": "P29",
-                        "url": "P29.jpg"
-                    },
-                    {
-                        "name": "P3",
-                        "url": "P3.png"
-                    },
-                    {
-                        "name": "P30",
-                        "url": "P30.jpg"
-                    },
-                    {
-                        "name": "P31",
-                        "url": "P31.png"
-                    },
-                    {
-                        "name": "P32",
-                        "url": "P32.png"
-                    },
-                    {
-                        "name": "P35",
-                        "url": "P35.png"
-                    },
-                    {
-                        "name": "P36",
-                        "url": "P36.png"
-                    },
-                    {
-                        "name": "P37",
-                        "url": "P37.png"
-                    },
-                    {
-                        "name": "P38",
-                        "url": "P38.png"
-                    },
-                    {
-                        "name": "P39",
-                        "url": "P39.png"
-                    },
-                    {
-                        "name": "P4",
-                        "url": "P4.png"
-                    },
-                    {
-                        "name": "P40",
-                        "url": "P40.jpg"
-                    },
-                    {
-                        "name": "P41",
-                        "url": "P41.png"
-                    },
-                    {
-                        "name": "P42",
-                        "url": "P42.png"
-                    },
-                    {
-                        "name": "P44",
-                        "url": "P44.png"
-                    },
-                    {
-                        "name": "P46",
-                        "url": "P46.png"
-                    },
-                    {
-                        "name": "P48",
-                        "url": "P48.png"
-                    },
-                    {
-                        "name": "P49",
-                        "url": "P49.png"
-                    },
-                    {
-                        "name": "P5",
-                        "url": "P5.jpg"
-                    },
-                    {
-                        "name": "P50",
-                        "url": "P50.png"
-                    },
-                    {
-                        "name": "P51",
-                        "url": "P51.png"
-                    },
-                    {
-                        "name": "P53",
-                        "url": "P53.png"
-                    },
-                    {
-                        "name": "P54",
-                        "url": "P54.png"
-                    },
-                    {
-                        "name": "P58",
-                        "url": "P58.png"
-                    },
-                    {
-                        "name": "P6",
-                        "url": "P6.png"
-                    },
-                    {
-                        "name": "P66",
-                        "url": "P66.png"
-                    },
-                    {
-                        "name": "P7",
-                        "url": "P7.jpg"
-                    },
-                    {
-                        "name": "P8",
-                        "url": "P8.png"
-                    },
-                    {
-                        "name": "P9",
-                        "url": "P9.jpg"
-                    }
-                ]
-            },
-            {
                 "name": "Starter 01",
                 "url": "Starter 01",
                 "releaseDate": "2024-03-07T22:18:12.401990Z",
                 "cards": [
-                    {
-                        "name": "S01-00",
-                        "url": "S01-00.png"
-                    },
                     {
                         "name": "S01-01",
                         "url": "S01-01.png"
@@ -3541,6 +3330,213 @@
                     {
                         "name": "S08-26",
                         "url": "S08-26.png"
+                    }
+                ]
+            },
+            {
+                "name": "Promotional",
+                "url": "Promotional",
+                "releaseDate": "2024-03-07T22:18:12.401822Z",
+                "cards": [
+                    {
+                        "name": "P1",
+                        "url": "P1.png"
+                    },
+                    {
+                        "name": "P10",
+                        "url": "P10.png"
+                    },
+                    {
+                        "name": "P11",
+                        "url": "P11.png"
+                    },
+                    {
+                        "name": "P12",
+                        "url": "P12.png"
+                    },
+                    {
+                        "name": "P13",
+                        "url": "P13.png"
+                    },
+                    {
+                        "name": "P14",
+                        "url": "P14.png"
+                    },
+                    {
+                        "name": "P15",
+                        "url": "P15.jpg"
+                    },
+                    {
+                        "name": "P16",
+                        "url": "P16.jpg"
+                    },
+                    {
+                        "name": "P17",
+                        "url": "P17.png"
+                    },
+                    {
+                        "name": "P18",
+                        "url": "P18.jpg"
+                    },
+                    {
+                        "name": "P19",
+                        "url": "P19.png"
+                    },
+                    {
+                        "name": "P2",
+                        "url": "P2.png"
+                    },
+                    {
+                        "name": "P20",
+                        "url": "P20.png"
+                    },
+                    {
+                        "name": "P21",
+                        "url": "P21.png"
+                    },
+                    {
+                        "name": "P22",
+                        "url": "P22.png"
+                    },
+                    {
+                        "name": "P23",
+                        "url": "P23.png"
+                    },
+                    {
+                        "name": "P24",
+                        "url": "P24.png"
+                    },
+                    {
+                        "name": "P25",
+                        "url": "P25.jpg"
+                    },
+                    {
+                        "name": "P26",
+                        "url": "P26.jpg"
+                    },
+                    {
+                        "name": "P27",
+                        "url": "P27.png"
+                    },
+                    {
+                        "name": "P28",
+                        "url": "P28.png"
+                    },
+                    {
+                        "name": "P29",
+                        "url": "P29.jpg"
+                    },
+                    {
+                        "name": "P3",
+                        "url": "P3.png"
+                    },
+                    {
+                        "name": "P30",
+                        "url": "P30.jpg"
+                    },
+                    {
+                        "name": "P31",
+                        "url": "P31.png"
+                    },
+                    {
+                        "name": "P32",
+                        "url": "P32.png"
+                    },
+                    {
+                        "name": "P35",
+                        "url": "P35.png"
+                    },
+                    {
+                        "name": "P36",
+                        "url": "P36.png"
+                    },
+                    {
+                        "name": "P37",
+                        "url": "P37.png"
+                    },
+                    {
+                        "name": "P38",
+                        "url": "P38.png"
+                    },
+                    {
+                        "name": "P39",
+                        "url": "P39.png"
+                    },
+                    {
+                        "name": "P4",
+                        "url": "P4.png"
+                    },
+                    {
+                        "name": "P40",
+                        "url": "P40.jpg"
+                    },
+                    {
+                        "name": "P41",
+                        "url": "P41.png"
+                    },
+                    {
+                        "name": "P42",
+                        "url": "P42.png"
+                    },
+                    {
+                        "name": "P44",
+                        "url": "P44.png"
+                    },
+                    {
+                        "name": "P46",
+                        "url": "P46.png"
+                    },
+                    {
+                        "name": "P48",
+                        "url": "P48.png"
+                    },
+                    {
+                        "name": "P49",
+                        "url": "P49.png"
+                    },
+                    {
+                        "name": "P5",
+                        "url": "P5.jpg"
+                    },
+                    {
+                        "name": "P50",
+                        "url": "P50.png"
+                    },
+                    {
+                        "name": "P51",
+                        "url": "P51.png"
+                    },
+                    {
+                        "name": "P53",
+                        "url": "P53.png"
+                    },
+                    {
+                        "name": "P54",
+                        "url": "P54.png"
+                    },
+                    {
+                        "name": "P58",
+                        "url": "P58.png"
+                    },
+                    {
+                        "name": "P6",
+                        "url": "P6.png"
+                    },
+                    {
+                        "name": "P66",
+                        "url": "P66.png"
+                    },
+                    {
+                        "name": "P7",
+                        "url": "P7.jpg"
+                    },
+                    {
+                        "name": "P8",
+                        "url": "P8.png"
+                    },
+                    {
+                        "name": "P9",
+                        "url": "P9.jpg"
                     }
                 ]
             }
