@@ -686,7 +686,7 @@
             {
                 "name": "Base 03",
                 "url": "Base 03",
-                "releaseDate": "2009-3-14T00:00:00.000000Z",
+                "releaseDate": "2009-03-14T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "B03-01",
@@ -1001,7 +1001,7 @@
             {
                 "name": "Base 04",
                 "url": "Base 04",
-                "releaseDate": "2009-6-26T00:00:00.000000Z",
+                "releaseDate": "2009-06-26T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "B04-01",
@@ -1316,7 +1316,7 @@
             {
                 "name": "Base 05",
                 "url": "Base 05",
-                "releaseDate": "2009-9-18T00:00:00.000000Z",
+                "releaseDate": "2009-09-18T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "B05-01",
@@ -1998,7 +1998,7 @@
             {
                 "name": "Base 07",
                 "url": "Base 07",
-                "releaseDate": "2010-3-11T00:00:00.000000Z",
+                "releaseDate": "2010-03-11T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "B07-01",
@@ -2671,7 +2671,7 @@
             {
                 "name": "Starter 02",
                 "url": "Starter 02",
-                "releaseDate": "2009-4-23T00:00:00.000000Z",
+                "releaseDate": "2009-04-23T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "S02-01",
@@ -2774,7 +2774,7 @@
             {
                 "name": "Starter 03",
                 "url": "Starter 03",
-                "releaseDate": "2009-4-23T00:00:00.000000Z",
+                "releaseDate": "2009-04-23T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "S03-01",
@@ -2869,7 +2869,7 @@
             {
                 "name": "Starter 04",
                 "url": "Starter 04",
-                "releaseDate": "2009-8-1T00:00:00.000000Z",
+                "releaseDate": "2009-08-1T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "S04-01",
@@ -3122,7 +3122,7 @@
             {
                 "name": "Starter 07",
                 "url": "Starter 07",
-                "releaseDate": "2010-3-11T00:00:00.000000Z",
+                "releaseDate": "2010-03-11T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "S07-01",
@@ -3225,7 +3225,7 @@
             {
                 "name": "Starter 08",
                 "url": "Starter 08",
-                "releaseDate": "2010-3-11T00:00:00.000000Z",
+                "releaseDate": "2010-03-11T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "S08-01",
