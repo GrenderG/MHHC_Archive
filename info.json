@@ -4,7 +4,7 @@
             {
                 "name": "Base 01",
                 "url": "Base 01",
-                "releaseDate": "2024-03-07T22:18:12.399924Z",
+                "releaseDate": "2008-10-25T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "B01-01",
@@ -371,7 +371,7 @@
             {
                 "name": "Base 02",
                 "url": "Base 02",
-                "releaseDate": "2024-03-07T22:18:12.400232Z",
+                "releaseDate": "2008-12-20T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "B02-01",
@@ -686,7 +686,7 @@
             {
                 "name": "Base 03",
                 "url": "Base 03",
-                "releaseDate": "2024-03-07T22:18:12.400460Z",
+                "releaseDate": "2009-3-14T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "B03-01",
@@ -1001,7 +1001,7 @@
             {
                 "name": "Base 04",
                 "url": "Base 04",
-                "releaseDate": "2024-03-07T22:18:12.400682Z",
+                "releaseDate": "2009-6-26T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "B04-01",
@@ -1316,7 +1316,7 @@
             {
                 "name": "Base 05",
                 "url": "Base 05",
-                "releaseDate": "2024-03-07T22:18:12.400925Z",
+                "releaseDate": "2009-9-18T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "B05-01",
@@ -1683,7 +1683,7 @@
             {
                 "name": "Base 06",
                 "url": "Base 06",
-                "releaseDate": "2024-03-07T22:18:12.401198Z",
+                "releaseDate": "2009-12-18T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "B06-01",
@@ -1998,7 +1998,7 @@
             {
                 "name": "Base 07",
                 "url": "Base 07",
-                "releaseDate": "2024-03-07T22:18:12.401413Z",
+                "releaseDate": "2010-3-11T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "B07-01",
@@ -2305,7 +2305,7 @@
             {
                 "name": "Base 08",
                 "url": "Base 08",
-                "releaseDate": "2024-03-07T22:18:12.401623Z",
+                "releaseDate": "2010-10-22T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "B08-01",
@@ -2596,7 +2596,7 @@
             {
                 "name": "Starter 01",
                 "url": "Starter 01",
-                "releaseDate": "2024-03-07T22:18:12.401990Z",
+                "releaseDate": "2008-10-25T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "S01-01",
@@ -2671,7 +2671,7 @@
             {
                 "name": "Starter 02",
                 "url": "Starter 02",
-                "releaseDate": "2024-03-07T22:18:12.402122Z",
+                "releaseDate": "2009-4-23T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "S02-01",
@@ -2774,7 +2774,7 @@
             {
                 "name": "Starter 03",
                 "url": "Starter 03",
-                "releaseDate": "2024-03-07T22:18:12.402260Z",
+                "releaseDate": "2009-4-23T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "S03-01",
@@ -2869,7 +2869,7 @@
             {
                 "name": "Starter 04",
                 "url": "Starter 04",
-                "releaseDate": "2024-03-07T22:18:12.402392Z",
+                "releaseDate": "2009-8-1T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "S04-01",
@@ -2888,7 +2888,7 @@
             {
                 "name": "Starter 05",
                 "url": "Starter 05",
-                "releaseDate": "2024-03-07T22:18:12.402509Z",
+                "releaseDate": "2009-11-13T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "S05-01",
@@ -3003,7 +3003,7 @@
             {
                 "name": "Starter 06",
                 "url": "Starter 06",
-                "releaseDate": "2024-03-07T22:18:12.402651Z",
+                "releaseDate": "2009-11-13T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "S06-01",
@@ -3122,7 +3122,7 @@
             {
                 "name": "Starter 07",
                 "url": "Starter 07",
-                "releaseDate": "2024-03-07T22:18:12.402790Z",
+                "releaseDate": "2010-3-11T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "S07-01",
@@ -3225,7 +3225,7 @@
             {
                 "name": "Starter 08",
                 "url": "Starter 08",
-                "releaseDate": "2024-03-07T22:18:12.402928Z",
+                "releaseDate": "2010-3-11T00:00:00.000000Z",
                 "cards": [
                     {
                         "name": "S08-01",
@@ -3336,11 +3336,43 @@
             {
                 "name": "Promotional",
                 "url": "Promotional",
-                "releaseDate": "2024-03-07T22:18:12.401822Z",
+                "releaseDate": "2008-10-25T00:00:00.000000Z",
                 "cards": [
                     {
-                        "name": "P1",
-                        "url": "P1.png"
+                        "name": "P01",
+                        "url": "P01.png"
+                    },
+                    {
+                        "name": "P02",
+                        "url": "P02.png"
+                    },
+                    {
+                        "name": "P03",
+                        "url": "P03.png"
+                    },
+                    {
+                        "name": "P04",
+                        "url": "P04.png"
+                    },
+                    {
+                        "name": "P05",
+                        "url": "P05.png"
+                    },
+                    {
+                        "name": "P06",
+                        "url": "P06.png"
+                    },
+                    {
+                        "name": "P07",
+                        "url": "P07.png"
+                    },
+                    {
+                        "name": "P08",
+                        "url": "P08.png"
+                    },
+                    {
+                        "name": "P09",
+                        "url": "P09.png"
                     },
                     {
                         "name": "P10",
@@ -3364,11 +3396,11 @@
                     },
                     {
                         "name": "P15",
-                        "url": "P15.jpg"
+                        "url": "P15.png"
                     },
                     {
                         "name": "P16",
-                        "url": "P16.jpg"
+                        "url": "P16.png"
                     },
                     {
                         "name": "P17",
@@ -3376,15 +3408,11 @@
                     },
                     {
                         "name": "P18",
-                        "url": "P18.jpg"
+                        "url": "P18.png"
                     },
                     {
                         "name": "P19",
                         "url": "P19.png"
-                    },
-                    {
-                        "name": "P2",
-                        "url": "P2.png"
                     },
                     {
                         "name": "P20",
@@ -3412,7 +3440,7 @@
                     },
                     {
                         "name": "P26",
-                        "url": "P26.jpg"
+                        "url": "P26.png"
                     },
                     {
                         "name": "P27",
@@ -3424,15 +3452,11 @@
                     },
                     {
                         "name": "P29",
-                        "url": "P29.jpg"
-                    },
-                    {
-                        "name": "P3",
-                        "url": "P3.png"
+                        "url": "P29.png"
                     },
                     {
                         "name": "P30",
-                        "url": "P30.jpg"
+                        "url": "P30.png"
                     },
                     {
                         "name": "P31",
@@ -3441,6 +3465,10 @@
                     {
                         "name": "P32",
                         "url": "P32.png"
+                    },
+                    {
+                        "name": "P33",
+                        "url": "P33.png"
                     },
                     {
                         "name": "P35",
@@ -3463,12 +3491,8 @@
                         "url": "P39.png"
                     },
                     {
-                        "name": "P4",
-                        "url": "P4.png"
-                    },
-                    {
                         "name": "P40",
-                        "url": "P40.jpg"
+                        "url": "P40.png"
                     },
                     {
                         "name": "P41",
@@ -3479,6 +3503,10 @@
                         "url": "P42.png"
                     },
                     {
+                        "name": "P43",
+                        "url": "P43.png"
+                    },
+                    {
                         "name": "P44",
                         "url": "P44.png"
                     },
@@ -3487,16 +3515,16 @@
                         "url": "P46.png"
                     },
                     {
+                        "name": "P47",
+                        "url": "P47.png"
+                    },
+                    {
                         "name": "P48",
                         "url": "P48.png"
                     },
                     {
                         "name": "P49",
                         "url": "P49.png"
-                    },
-                    {
-                        "name": "P5",
-                        "url": "P5.jpg"
                     },
                     {
                         "name": "P50",
@@ -3515,28 +3543,48 @@
                         "url": "P54.png"
                     },
                     {
+                        "name": "P56",
+                        "url": "P56.png"
+                    },
+                    {
+                        "name": "P57",
+                        "url": "P57.png"
+                    },
+                    {
                         "name": "P58",
                         "url": "P58.png"
                     },
                     {
-                        "name": "P6",
-                        "url": "P6.png"
+                        "name": "P59",
+                        "url": "P59.png"
+                    },
+                    {
+                        "name": "P60",
+                        "url": "P60.png"
+                    },
+                    {
+                        "name": "P61",
+                        "url": "P61.png"
+                    },
+                    {
+                        "name": "P64",
+                        "url": "P64.png"
+                    },
+                    {
+                        "name": "P65",
+                        "url": "P65.png"
                     },
                     {
                         "name": "P66",
                         "url": "P66.png"
                     },
                     {
-                        "name": "P7",
-                        "url": "P7.jpg"
+                        "name": "P67",
+                        "url": "P67.png"
                     },
                     {
-                        "name": "P8",
-                        "url": "P8.png"
-                    },
-                    {
-                        "name": "P9",
-                        "url": "P9.jpg"
+                        "name": "P68",
+                        "url": "P68.png"
                     }
                 ]
             }
